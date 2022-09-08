@@ -1,1 +1,3 @@
-# -PC1-Proyecto-1-202112092
+# Brandon Eduardo Pablo Garcia
+## 202112092
+### Laboratorio de IPC1 - A
